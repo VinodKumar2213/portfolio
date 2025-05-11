@@ -29,7 +29,7 @@ const Projects = () => {
       image: 'CyberArmor.png',
       technologies: ['HTML', 'CSS', 'JavaScript' , 'Bootstrap'],
       liveDemo: 'https://cyber-armor-4e1be.web.app',
-      github: 'https://github.com',
+      github: 'https://github.com/VinodKumar2213/Cyber-Armor',
       // details: 'Built a responsive e-commerce platform with features like product filtering, user authentication, and payment integration. Implemented state management using Redux and integrated with a Node.js backend.',
     },
     {
@@ -37,7 +37,7 @@ const Projects = () => {
       image: 'H2GO.png',
       technologies: ['HTML', 'CSS', 'JavaScript' , 'Bootstrap'],
       liveDemo: 'https://h2go-86434.web.app',
-      github: 'https://github.com',
+      github: 'https://github.com/VinodKumar2213/H2GO',
       // details: 'Developed a real-time task management application with features like drag-and-drop task organization, team collaboration, and deadline tracking. Utilized Firebase for backend services.',
     },
     {
@@ -45,7 +45,7 @@ const Projects = () => {
       image: 'SpaLaLa.png',
       technologies: ['HTML', 'CSS', 'JavaScript' , 'Bootstrap'],
       liveDemo: 'https://spalala-e41d7.web.app',
-      github: 'https://github.com',
+      github: 'https://github.com/VinodKumar2213/Spa-La-La',
       // details: 'Created a weather dashboard that displays current weather conditions and forecasts using the OpenWeather API. Implemented interactive charts for temperature and precipitation data.',
     },
     
@@ -54,7 +54,7 @@ const Projects = () => {
       image: 'GlycoCheck.png',
       technologies: ['HTML', 'CSS', 'JavaScript' , 'Bootstrap'],
       liveDemo: 'https://glyko-check.web.app',
-      github: 'https://github.com',
+      github: 'https://github.com/VinodKumar2213/Glyko-check',
       // details: 'Built a cross-platform mobile application that helps users find recipes based on ingredients they have at home. Implemented features like recipe saving, meal planning, and nutritional information tracking.',
     },
     {
@@ -62,7 +62,7 @@ const Projects = () => {
       image: 'PhoneGlow.png',
       technologies: ['React', 'Material UI'],
       liveDemo: 'https://mobilecase-demo.web.app/',
-      github: 'https://github.com',
+      github: 'https://github.com/VinodKumar2213/Phone-glow',
       // details: 'Developed an AI-powered chatbot that answers customer service queries. Used natural language processing for intent recognition and implemented a web interface for easy interaction with the AI system.',
     },
     {
@@ -70,7 +70,7 @@ const Projects = () => {
       image: 'Portfolio.png',
       technologies: ['React', 'Material UI'],
       liveDemo: 'https://portfolio-f7b76.web.app/',
-      github: 'https://github.com',
+      github: 'https://github.com/VinodKumar2213/portfolio',
       // details: 'Designed and developed a personal portfolio website showcasing projects and skills. Implemented smooth animations and transitions using Framer Motion with a responsive design that works across all devices.',
     },
   ];

@@ -69,7 +69,7 @@ const Projects = () => {
       title: 'Portfolio Website',
       image: 'Portfolio.png',
       technologies: ['React', 'Material UI'],
-      liveDemo: 'https://portfolio-f7b76.web.app/',
+      liveDemo: 'https://vinodkumar-mallidi.web.app/',
       github: 'https://github.com/VinodKumar2213/portfolio',
       // details: 'Designed and developed a personal portfolio website showcasing projects and skills. Implemented smooth animations and transitions using Framer Motion with a responsive design that works across all devices.',
     },

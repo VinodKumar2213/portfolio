@@ -304,7 +304,7 @@ const Contact = () => {
                             }}
                           >
                             <img
-                              src="CONTACT3.JPG"
+                              src="https://st.depositphotos.com/1029541/54587/i/450/depositphotos_545877714-stock-photo-contact-illustration-icons-abstract-network.jpg"
                               alt="Contact"
                               style={{
                                 width: '100%',
